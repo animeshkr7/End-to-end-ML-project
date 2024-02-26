@@ -26,7 +26,7 @@ list_of_files = [
     "app.py",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb",
+    "research/trails.ipynb", # for notebook experiment
     "templates/index.html"
 
 ]

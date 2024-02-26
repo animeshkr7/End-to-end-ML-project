@@ -1,6 +1,11 @@
 # End-to-end-ML-project
 
 
-'''python -m venv mlproj
+'''bash
+python -m venv mlproj
 
-'''mlproj/
+'''powercell
+mlproj\Scripts\activate
+
+'''bash
+pip install -r requirements.txt

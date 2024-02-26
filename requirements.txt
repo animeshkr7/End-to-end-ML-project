@@ -6,7 +6,8 @@ matplotlib
 python-box==6.0.2
 pyYAML
 ensure==1.0.2
-joblib
+joblib # to save ml project/ also can use pickle 
 types-pyYAML
-Flask
+Flask # for API
 Flask-Cors
+-e . # local setup 

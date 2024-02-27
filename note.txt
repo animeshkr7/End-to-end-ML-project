@@ -1,0 +1,2 @@
+DO NOT RELAUCNCH THE BASH TERMINAL WITH VENV PYTHON , else will not be able to access git and ls command 
+

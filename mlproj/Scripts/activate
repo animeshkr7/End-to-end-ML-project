@@ -42,7 +42,7 @@ VIRTUAL_ENV="C:\Users\aks\ml\Projects\e2e\e2eML\End-to-end-ML-project\mlproj"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
-PATH="$VIRTUAL_ENV/Scripts:$PATH"
+PATH="$VIRTUAL_ENV/Scripts:$PATH:/usr/bin:/bin:/usr/sbin:/sbin"
 export PATH
 
 # unset PYTHONHOME if set

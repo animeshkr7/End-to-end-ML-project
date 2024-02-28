@@ -1,0 +1,8 @@
+##data ingestion config
+artifacts_root : artifacts # kind of dict , creating a folder , as yaml files returns cBox
+
+data_ingestion: # another key
+  root_dir: artifacts/data_ingestion
+  source_URL : https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  local_data_file : artifacts/data_ingestion/data.zip
+  unzip_dir : artifacts/data_ingestion
